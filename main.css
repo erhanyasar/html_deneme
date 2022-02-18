@@ -1,0 +1,28 @@
+.header-title-container {
+  margin: 0 auto;
+}
+
+.header-title {
+  color: white;
+}
+
+.form-text {
+  margin: 10% 25%;
+  padding: 2rem 1rem;
+  border: 1px solid grey;
+}
+
+h3 {
+  text-align: center;
+}
+
+.submit-btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+#submit-btn {
+  margin-left: 5px;
+}
